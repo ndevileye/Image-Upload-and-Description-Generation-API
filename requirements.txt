@@ -1,0 +1,15 @@
+# Core Django and REST Framework
+Django>=4.0,<5.0
+djangorestframework>=3.14,<4.0
+
+# Image Upload and Processing
+Pillow>=9.0,<11.0
+
+# GPT/LLM Integration
+openai>=0.27,<1.0  # For OpenAI integration
+
+# Validation and Environment Management
+python-dotenv>=1.0,<2.0
+
+# Other Utilities
+requests>=2.26,<3.0
