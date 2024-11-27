@@ -1,0 +1,27 @@
+# Exclude virtual environments
+venv/
+.env/
+
+# PyCharm specific files
+.idea/
+
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+
+# Database files
+*.sqlite3
+
+# Django static and media folders (if generated dynamically)
+static/
+media/
+
+# Environment files
+.env
+
+# System-specific files
+.DS_Store
+Thumbs.db
